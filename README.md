@@ -1,5 +1,5 @@
-# memory-game
-Memory game created using JavaScript and CSS. 
+# About the game
+Memory game created using JavaScript, HTML and CSS as part of FEND Udacity program.
 
-## Instructions
-Click cards to flip over and reveal symbol. When a pair is matched in sequence those cards will stay open. Match all cards correctly to complete the game. Match the cards in the fewest attempts to get a high rating and low time.
+## How to play the game
+Click a card to select and reveal. Match two cards consecutively to reveal pairs. The game is over once all pairs are matched. Match pairs with the fewest clicks to maintain a three star rating and race against the clock to solve as quick as possible!
