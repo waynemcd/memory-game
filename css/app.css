@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    display: flex;
+	display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -75,7 +75,6 @@ h2 {
     border: 1px solid #888;
 	border-radius: 8px;
     width: 40%; 
-	
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
@@ -107,7 +106,7 @@ h2 {
  * Styles for Result Modal
  */
 
-.modal-content .stars {
+.stars {
     margin: 0;
     padding: 0;
     margin: 0 5px 0 0;
@@ -115,11 +114,11 @@ h2 {
 	font-size: 1em;
 }
 
-.modal-content .stars .disable {
+.stars .disable {
      color: #787b7a;
 }
 
-.modal-content .stars li {
+.stars li {
     list-style: none;
     display: inline-block;
 }
