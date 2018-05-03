@@ -9,4 +9,4 @@ Click a card to select and reveal. Match two cards consecutively to reveal pairs
 Download a copy of the game
 
 ## Required dependencies
-This game uses easytimer.js downlaoded from here: https://albert-gonzalez.github.io/easytimer.js/
+This game uses easytimer.js It can be downloaded from here: https://albert-gonzalez.github.io/easytimer.js/
